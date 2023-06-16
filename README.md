@@ -1,5 +1,6 @@
 # MET-AI
 # Introduction
+premise: what is art can serve as inspiration for AI just as art inspires me. I want to explore this idea.
 Merge Art and AI to create a new art. 
 
 APIs I want to use:
