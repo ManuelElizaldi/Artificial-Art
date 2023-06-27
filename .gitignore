@@ -1,5 +1,5 @@
 config.py
-
+/Resources/chicago_art.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
