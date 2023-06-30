@@ -1,6 +1,6 @@
 # Introduction
-premise: what is art can serve as inspiration for AI just as art inspires me. I want to explore this idea.
-Merge Art and AI to create a new art. 
+In this project I explore the idea: what if art can serve as inspiration for AI just as art inspires me. Take paintings from different museum APIs and then run those through different image generator AI and trasnforming them into new art pieces. 
+
 
 *Art Institute of Chicago API*
 https://api.artic.edu/docs/
