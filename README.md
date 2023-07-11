@@ -6,7 +6,7 @@ https://api.artic.edu/docs/
 APIs I want to use in the future:
 - *MET museum API* : https://metmuseum.github.io/
 
-- *Harvard Museum API* : https://github.com/harvardartmuseums/api-docsssssssxd
+- *Harvard Museum API* : https://github.com/harvardartmuseums/api-docs
 
 # Image Generation Engine:
 *DALL·E to generate an AI image*
